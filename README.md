@@ -1,4 +1,4 @@
-REMOTE
+LOCAL
 
 Quelques lignes
 
