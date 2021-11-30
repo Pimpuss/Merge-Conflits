@@ -1,4 +1,4 @@
-AUTRE MOT
+REMOTE
 
 Quelques lignes
 
